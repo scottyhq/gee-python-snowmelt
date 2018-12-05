@@ -22,6 +22,6 @@ dependencies:
   - pandas=0.23
   - dask-kubernetes=0.6
   - rasterio=1.0.11
-  - xarray=0.11
+  - xarray=0.10
   - google-api-python-client=1.7.5
   - earthengine-api=0.1.152
