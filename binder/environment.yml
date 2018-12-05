@@ -1,0 +1,27 @@
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  - nomkl
+  - curl=7.62
+  - python=3.6
+  - dask=1.0.0
+  - distributed=1.25
+  - matplotlib=3.0
+  - nbserverproxy=0.8
+  - jupyter=1.0
+  - ipywidgets=7.4
+  - ipyleaflet=0.9
+  - graphviz=2.38
+  - jupyterlab=0.35
+  - nodejs=8.12
+  - libgdal=2.3.2
+  - boto3=1.9
+  - hvplot=0.2
+  - requests=2.20
+  - pandas=0.23
+  - dask-kubernetes=0.6
+  - rasterio=1.0.11
+  - xarray=0.11
+  - google-api-python-client=1.7.5
+  - earthengine-api=0.1.152
